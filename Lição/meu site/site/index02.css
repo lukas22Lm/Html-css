@@ -1,0 +1,33 @@
+@charset 'UTF-8';
+*{font-family: Arial, Helvetica, sans-serif;}
+body{
+    background-image: linear-gradient(to left, rgb(217, 12, 12), rgb(6, 179, 248))
+}
+main {
+    background-color: aliceblue;
+    width:900px;
+    padding: 200px;
+    margin: auto;
+    border-radius: 100px;
+    box-shadow: 40px 40px 20px rgb(11, 0, 0);
+
+} p{
+    text-align: left;
+}
+ h1{
+    color: rgb(231, 18, 18); 
+     text-align: center;
+
+} h2 {
+    position: absolute;
+    top: 1160px;      /* Mais pra baixo */
+    right: 500px;
+} h3{
+    position: absolute;
+    top: 1200px ;
+    right: 670px ;
+}  h4 {
+    position: absolute;
+    top: 50px ;
+    right: 20px ;
+}
